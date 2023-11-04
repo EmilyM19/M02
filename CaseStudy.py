@@ -10,7 +10,6 @@ the quit phrase 'ZZZ'.
 """
 
 quit = "ZZZ"
-
 while True:
     lName = input("Enter the student's last name, or 'ZZZ' to quit: ")
     if lName == quit:
